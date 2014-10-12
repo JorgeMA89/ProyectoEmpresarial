@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Sun Oct 12 11:25:23 COT 2014:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance a816c00e-0149-052d-b91e-000007b8e0e8 
+on database directory C:\Users\JMAZz\jpa_clase01\simpleDb  with class loader sun.misc.Launcher$AppClassLoader@271a2576 
+Loaded from file:/C:/Users/JMAZz/.m2/repository/org/apache/derby/derby/10.8.2.2/derby-10.8.2.2.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_65-b20
+user.dir=C:\Users\JMAZz\jpa_clase01
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
